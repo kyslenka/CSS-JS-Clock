@@ -1,4 +1,4 @@
 ﻿# CSS-JS-Clock
 A web-page with a clock 
-## Demo Video
+# Demo 
 https://js-css-clock.netlify.com/
